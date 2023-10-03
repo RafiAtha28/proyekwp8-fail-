@@ -1,0 +1,28 @@
+.p-search{
+    width: 30rem;
+}
+
+.btnkosong{
+    margin-left: 500px;
+    border-color: rgb(255, 255, 255);
+}
+
+.bg-con{
+    background-image: url(assest/background1.png);
+}
+
+.font-jumbotron{
+    font-family: "Libre Baskerville";
+    font-size: 6rem;
+    color: white;
+}
+
+.fontpenjelasan{
+    font-family: "Libre Baskerville";
+    color: white;
+    font-size: 20px;
+}
+
+
+
+  
